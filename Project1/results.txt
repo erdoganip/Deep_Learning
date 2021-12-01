@@ -1,0 +1,1405 @@
+EPOCH 0 started
+Epoch 0 loss is:  9.665354304072332
+Epoch 0 accuracy is:  16.4048322147651
+Epoch 0 val loss is:  9.654757931201589
+Epoch 0 val accuracy is:  0.17363440860215054
+
+
+EPOCH 1 started
+Epoch 1 loss is:  9.65782435130024
+Epoch 1 accuracy is:  17.388187919463086
+Epoch 1 val loss is:  9.658180132973676
+Epoch 1 val accuracy is:  0.17376344086021506
+
+
+EPOCH 2 started
+Epoch 2 loss is:  9.657657327776908
+Epoch 2 accuracy is:  17.398657718120806
+Epoch 2 val loss is:  9.657256621128596
+Epoch 2 val accuracy is:  0.17376344086021506
+
+
+EPOCH 3 started
+Epoch 3 loss is:  9.657444957523614
+Epoch 3 accuracy is:  17.401073825503357
+Epoch 3 val loss is:  9.656733545208414
+Epoch 3 val accuracy is:  0.17380645161290323
+
+
+EPOCH 4 started
+Epoch 4 loss is:  9.657189265329947
+Epoch 4 accuracy is:  17.401342281879195
+Epoch 4 val loss is:  9.658070349523747
+Epoch 4 val accuracy is:  0.17380645161290323
+
+
+EPOCH 5 started
+Epoch 5 loss is:  9.656822195141391
+Epoch 5 accuracy is:  17.401342281879195
+Epoch 5 val loss is:  9.658773919456443
+Epoch 5 val accuracy is:  0.17380645161290323
+
+
+EPOCH 6 started
+Epoch 6 loss is:  9.656355897220298
+Epoch 6 accuracy is:  17.401342281879195
+Epoch 6 val loss is:  9.653749767105056
+Epoch 6 val accuracy is:  0.17380645161290323
+
+
+EPOCH 7 started
+Epoch 7 loss is:  9.655676374336895
+Epoch 7 accuracy is:  17.401342281879195
+Epoch 7 val loss is:  9.654949225631773
+Epoch 7 val accuracy is:  0.17380645161290323
+
+
+EPOCH 8 started
+Epoch 8 loss is:  9.65469127846671
+Epoch 8 accuracy is:  17.401342281879195
+Epoch 8 val loss is:  9.651904514308827
+Epoch 8 val accuracy is:  0.17380645161290323
+
+
+EPOCH 9 started
+Epoch 9 loss is:  9.653359461005698
+Epoch 9 accuracy is:  17.401342281879195
+Epoch 9 val loss is:  9.654208586690581
+Epoch 9 val accuracy is:  0.17380645161290323
+
+
+EPOCH 10 started
+Epoch 10 loss is:  9.652041084512497
+Epoch 10 accuracy is:  17.400805369127518
+Epoch 10 val loss is:  9.64598139579478
+Epoch 10 val accuracy is:  0.17380645161290323
+
+
+EPOCH 11 started
+Epoch 11 loss is:  9.650750934784053
+Epoch 11 accuracy is:  17.397315436241612
+Epoch 11 val loss is:  9.653605655438325
+Epoch 11 val accuracy is:  0.17376344086021506
+
+
+EPOCH 12 started
+Epoch 12 loss is:  9.64951858872281
+Epoch 12 accuracy is:  17.386577181208054
+Epoch 12 val loss is:  9.644994154723094
+Epoch 12 val accuracy is:  0.17378494623655913
+
+
+EPOCH 13 started
+Epoch 13 loss is:  9.648288158303222
+Epoch 13 accuracy is:  17.37744966442953
+Epoch 13 val loss is:  9.639928947241469
+Epoch 13 val accuracy is:  0.17380645161290323
+
+
+EPOCH 14 started
+Epoch 14 loss is:  9.647087037131913
+Epoch 14 accuracy is:  17.386040268456377
+Epoch 14 val loss is:  9.648637611512786
+Epoch 14 val accuracy is:  0.17483870967741935
+
+
+EPOCH 15 started
+Epoch 15 loss is:  9.64600663481715
+Epoch 15 accuracy is:  17.526711409395972
+Epoch 15 val loss is:  9.64054757765952
+Epoch 15 val accuracy is:  0.17393548387096774
+
+
+EPOCH 16 started
+Epoch 16 loss is:  9.64496225141148
+Epoch 16 accuracy is:  17.90496644295302
+Epoch 16 val loss is:  9.642519245532197
+Epoch 16 val accuracy is:  0.1827956989247312
+
+
+EPOCH 17 started
+Epoch 17 loss is:  9.643970352290706
+Epoch 17 accuracy is:  18.344429530201342
+Epoch 17 val loss is:  9.639555166882774
+Epoch 17 val accuracy is:  0.1806236559139785
+
+
+EPOCH 18 started
+Epoch 18 loss is:  9.643115745119056
+Epoch 18 accuracy is:  18.64510067114094
+Epoch 18 val loss is:  9.64176539675771
+Epoch 18 val accuracy is:  0.18858064516129033
+
+
+EPOCH 19 started
+Epoch 19 loss is:  9.642175292971007
+Epoch 19 accuracy is:  18.861208053691275
+Epoch 19 val loss is:  9.63770976150814
+Epoch 19 val accuracy is:  0.1887741935483871
+
+
+EPOCH 20 started
+Epoch 20 loss is:  9.641305539369164
+Epoch 20 accuracy is:  18.925637583892616
+Epoch 20 val loss is:  9.63941361083452
+Epoch 20 val accuracy is:  0.19073118279569892
+
+
+EPOCH 21 started
+Epoch 21 loss is:  9.640517465857963
+Epoch 21 accuracy is:  18.96
+Epoch 21 val loss is:  9.644031095034142
+Epoch 21 val accuracy is:  0.19036559139784945
+
+
+EPOCH 22 started
+Epoch 22 loss is:  9.639716710887653
+Epoch 22 accuracy is:  18.98738255033557
+Epoch 22 val loss is:  9.63606052112291
+Epoch 22 val accuracy is:  0.1918494623655914
+
+
+EPOCH 23 started
+Epoch 23 loss is:  9.638908211741636
+Epoch 23 accuracy is:  19.016107382550334
+Epoch 23 val loss is:  9.64196792187867
+Epoch 23 val accuracy is:  0.19012903225806452
+
+
+EPOCH 24 started
+Epoch 24 loss is:  9.638193716928392
+Epoch 24 accuracy is:  19.013154362416106
+Epoch 24 val loss is:  9.635784562967714
+Epoch 24 val accuracy is:  0.19212903225806452
+
+
+EPOCH 25 started
+Epoch 25 loss is:  9.637441806087557
+Epoch 25 accuracy is:  19.061208053691274
+Epoch 25 val loss is:  9.638512864363033
+Epoch 25 val accuracy is:  0.19053763440860216
+
+
+EPOCH 26 started
+Epoch 26 loss is:  9.636758578546939
+Epoch 26 accuracy is:  19.108993288590604
+Epoch 26 val loss is:  9.633325125976933
+Epoch 26 val accuracy is:  0.19023655913978493
+
+
+EPOCH 27 started
+Epoch 27 loss is:  9.636098434850448
+Epoch 27 accuracy is:  19.149798657718122
+Epoch 27 val loss is:  9.635550528894871
+Epoch 27 val accuracy is:  0.19225806451612903
+
+
+EPOCH 28 started
+Epoch 28 loss is:  9.6354030357548
+Epoch 28 accuracy is:  19.205906040268456
+Epoch 28 val loss is:  9.635179518975255
+Epoch 28 val accuracy is:  0.19262365591397848
+
+
+EPOCH 29 started
+Epoch 29 loss is:  9.63487149863431
+Epoch 29 accuracy is:  19.259060402684565
+Epoch 29 val loss is:  9.629831419677746
+Epoch 29 val accuracy is:  0.1906236559139785
+
+
+EPOCH 30 started
+Epoch 30 loss is:  9.634327007967652
+Epoch 30 accuracy is:  19.296375838926174
+Epoch 30 val loss is:  9.637277769580981
+Epoch 30 val accuracy is:  0.19432258064516128
+
+
+EPOCH 31 started
+Epoch 31 loss is:  9.633797611425969
+Epoch 31 accuracy is:  19.346308724832216
+Epoch 31 val loss is:  9.636294877235844
+Epoch 31 val accuracy is:  0.19638709677419355
+
+
+EPOCH 32 started
+Epoch 32 loss is:  9.633288191123585
+Epoch 32 accuracy is:  19.441073825503356
+Epoch 32 val loss is:  9.634701641145915
+Epoch 32 val accuracy is:  0.19593548387096774
+
+
+EPOCH 33 started
+Epoch 33 loss is:  9.632841990909252
+Epoch 33 accuracy is:  19.4544966442953
+Epoch 33 val loss is:  9.631739721697446
+Epoch 33 val accuracy is:  0.1983010752688172
+
+
+EPOCH 34 started
+Epoch 34 loss is:  9.632440593350585
+Epoch 34 accuracy is:  19.536107382550334
+Epoch 34 val loss is:  9.632502238854057
+Epoch 34 val accuracy is:  0.1949032258064516
+
+
+EPOCH 35 started
+Epoch 35 loss is:  9.632045582720401
+Epoch 35 accuracy is:  19.567248322147652
+Epoch 35 val loss is:  9.628735415816044
+Epoch 35 val accuracy is:  0.19666666666666666
+
+
+EPOCH 36 started
+Epoch 36 loss is:  9.631679941718243
+Epoch 36 accuracy is:  19.631409395973154
+Epoch 36 val loss is:  9.631153716084942
+Epoch 36 val accuracy is:  0.20023655913978494
+
+
+EPOCH 37 started
+Epoch 37 loss is:  9.631335088611399
+Epoch 37 accuracy is:  19.674093959731543
+Epoch 37 val loss is:  9.631181657010785
+Epoch 37 val accuracy is:  0.1976989247311828
+
+
+EPOCH 38 started
+Epoch 38 loss is:  9.630997415700623
+Epoch 38 accuracy is:  19.73315436241611
+Epoch 38 val loss is:  9.627677311603618
+Epoch 38 val accuracy is:  0.19621505376344087
+
+
+EPOCH 39 started
+Epoch 39 loss is:  9.630703522130315
+Epoch 39 accuracy is:  19.775838926174497
+Epoch 39 val loss is:  9.632211612297239
+Epoch 39 val accuracy is:  0.20333333333333334
+
+
+EPOCH 40 started
+Epoch 40 loss is:  9.630386617934828
+Epoch 40 accuracy is:  19.82255033557047
+Epoch 40 val loss is:  9.623708064653165
+Epoch 40 val accuracy is:  0.1975483870967742
+
+
+EPOCH 41 started
+Epoch 41 loss is:  9.630095154590087
+Epoch 41 accuracy is:  19.835973154362417
+Epoch 41 val loss is:  9.627314578540696
+Epoch 41 val accuracy is:  0.20073118279569893
+
+
+EPOCH 42 started
+Epoch 42 loss is:  9.629828379135079
+Epoch 42 accuracy is:  19.861208053691275
+Epoch 42 val loss is:  9.625942453561319
+Epoch 42 val accuracy is:  0.19868817204301076
+
+
+EPOCH 43 started
+Epoch 43 loss is:  9.629555037822458
+Epoch 43 accuracy is:  19.899328859060404
+Epoch 43 val loss is:  9.630478938385481
+Epoch 43 val accuracy is:  0.20206451612903226
+
+
+EPOCH 44 started
+Epoch 44 loss is:  9.629288309796165
+Epoch 44 accuracy is:  19.940671140939596
+Epoch 44 val loss is:  9.626262085890065
+Epoch 44 val accuracy is:  0.2001505376344086
+
+
+EPOCH 45 started
+Epoch 45 loss is:  9.629061062547992
+Epoch 45 accuracy is:  19.983624161073827
+Epoch 45 val loss is:  9.629138138262581
+Epoch 45 val accuracy is:  0.2027741935483871
+
+
+EPOCH 46 started
+Epoch 46 loss is:  9.628768379349241
+Epoch 46 accuracy is:  19.971543624161075
+Epoch 46 val loss is:  9.631292602765388
+Epoch 46 val accuracy is:  0.2010537634408602
+
+
+EPOCH 47 started
+Epoch 47 loss is:  9.628585657394389
+Epoch 47 accuracy is:  20.0193288590604
+Epoch 47 val loss is:  9.622056733557653
+Epoch 47 val accuracy is:  0.19898924731182796
+
+
+EPOCH 48 started
+Epoch 48 loss is:  9.628333398122617
+Epoch 48 accuracy is:  20.051006711409396
+Epoch 48 val loss is:  9.627369414098528
+Epoch 48 val accuracy is:  0.20258064516129032
+
+
+EPOCH 49 started
+Epoch 49 loss is:  9.628110815181113
+Epoch 49 accuracy is:  20.067651006711408
+Epoch 49 val loss is:  9.627214569368743
+Epoch 49 val accuracy is:  0.20126881720430106
+
+
+EPOCH 50 started
+Epoch 50 loss is:  9.627909061157851
+Epoch 50 accuracy is:  20.060671140939597
+Epoch 50 val loss is:  9.628775395349354
+Epoch 50 val accuracy is:  0.20053763440860214
+
+
+EPOCH 51 started
+Epoch 51 loss is:  9.627690524543523
+Epoch 51 accuracy is:  20.100939597315435
+Epoch 51 val loss is:  9.628222027612104
+Epoch 51 val accuracy is:  0.2041720430107527
+
+
+EPOCH 52 started
+Epoch 52 loss is:  9.62746275938865
+Epoch 52 accuracy is:  20.14496644295302
+Epoch 52 val loss is:  9.62766688151149
+Epoch 52 val accuracy is:  0.20060215053763442
+
+
+EPOCH 53 started
+Epoch 53 loss is:  9.627252142846471
+Epoch 53 accuracy is:  20.178791946308724
+Epoch 53 val loss is:  9.62609825058115
+Epoch 53 val accuracy is:  0.20326881720430107
+
+
+EPOCH 54 started
+Epoch 54 loss is:  9.627082013189272
+Epoch 54 accuracy is:  20.179060402684563
+Epoch 54 val loss is:  9.625728871267865
+Epoch 54 val accuracy is:  0.2019784946236559
+
+
+EPOCH 55 started
+Epoch 55 loss is:  9.626876155020865
+Epoch 55 accuracy is:  20.22523489932886
+Epoch 55 val loss is:  9.626279666154897
+Epoch 55 val accuracy is:  0.20501075268817204
+
+
+EPOCH 56 started
+Epoch 56 loss is:  9.626645970663022
+Epoch 56 accuracy is:  20.231677852348994
+Epoch 56 val loss is:  9.629485242021678
+Epoch 56 val accuracy is:  0.20490322580645162
+
+
+EPOCH 57 started
+Epoch 57 loss is:  9.626488475290499
+Epoch 57 accuracy is:  20.263624161073825
+Epoch 57 val loss is:  9.629140127108236
+Epoch 57 val accuracy is:  0.20221505376344087
+
+
+EPOCH 58 started
+Epoch 58 loss is:  9.626304011375598
+Epoch 58 accuracy is:  20.25986577181208
+Epoch 58 val loss is:  9.625072956629952
+Epoch 58 val accuracy is:  0.2053763440860215
+
+
+EPOCH 59 started
+Epoch 59 loss is:  9.626071691054936
+Epoch 59 accuracy is:  20.31973154362416
+Epoch 59 val loss is:  9.622544841902135
+Epoch 59 val accuracy is:  0.20486021505376345
+
+
+EPOCH 60 started
+Epoch 60 loss is:  9.62592262410704
+Epoch 60 accuracy is:  20.342818791946307
+Epoch 60 val loss is:  9.623282557608203
+Epoch 60 val accuracy is:  0.20318279569892472
+
+
+EPOCH 61 started
+Epoch 61 loss is:  9.625675143116926
+Epoch 61 accuracy is:  20.36268456375839
+Epoch 61 val loss is:  9.622898499514378
+Epoch 61 val accuracy is:  0.20539784946236558
+
+
+EPOCH 62 started
+Epoch 62 loss is:  9.625526173765659
+Epoch 62 accuracy is:  20.372885906040267
+Epoch 62 val loss is:  9.627670311892468
+Epoch 62 val accuracy is:  0.2036774193548387
+
+
+EPOCH 63 started
+Epoch 63 loss is:  9.625316348508932
+Epoch 63 accuracy is:  20.39275167785235
+Epoch 63 val loss is:  9.620623408990584
+Epoch 63 val accuracy is:  0.20389247311827957
+
+
+EPOCH 64 started
+Epoch 64 loss is:  9.625102434561294
+Epoch 64 accuracy is:  20.446979865771812
+Epoch 64 val loss is:  9.621557200367523
+Epoch 64 val accuracy is:  0.20509677419354838
+
+
+EPOCH 65 started
+Epoch 65 loss is:  9.624959273422016
+Epoch 65 accuracy is:  20.43248322147651
+Epoch 65 val loss is:  9.626171315390861
+Epoch 65 val accuracy is:  0.20720430107526883
+
+
+EPOCH 66 started
+Epoch 66 loss is:  9.624730818917904
+Epoch 66 accuracy is:  20.462818791946308
+Epoch 66 val loss is:  9.629431115913308
+Epoch 66 val accuracy is:  0.20486021505376345
+
+
+EPOCH 67 started
+Epoch 67 loss is:  9.62455895506926
+Epoch 67 accuracy is:  20.502818791946307
+Epoch 67 val loss is:  9.624072332771327
+Epoch 67 val accuracy is:  0.2058279569892473
+
+
+EPOCH 68 started
+Epoch 68 loss is:  9.624347183902222
+Epoch 68 accuracy is:  20.526711409395972
+Epoch 68 val loss is:  9.627326593086106
+Epoch 68 val accuracy is:  0.208752688172043
+
+
+EPOCH 69 started
+Epoch 69 loss is:  9.624111809719418
+Epoch 69 accuracy is:  20.55731543624161
+Epoch 69 val loss is:  9.625852113868744
+Epoch 69 val accuracy is:  0.20810752688172043
+
+
+EPOCH 70 started
+Epoch 70 loss is:  9.62391606050283
+Epoch 70 accuracy is:  20.576912751677852
+Epoch 70 val loss is:  9.628388329315401
+Epoch 70 val accuracy is:  0.21187096774193548
+
+
+EPOCH 71 started
+Epoch 71 loss is:  9.623743129473414
+Epoch 71 accuracy is:  20.577986577181207
+Epoch 71 val loss is:  9.620702203581333
+Epoch 71 val accuracy is:  0.20703225806451614
+
+
+EPOCH 72 started
+Epoch 72 loss is:  9.623555637725886
+Epoch 72 accuracy is:  20.628456375838926
+Epoch 72 val loss is:  9.625340871523726
+Epoch 72 val accuracy is:  0.20780645161290323
+
+
+EPOCH 73 started
+Epoch 73 loss is:  9.623343699969908
+Epoch 73 accuracy is:  20.67543624161074
+Epoch 73 val loss is:  9.620617877595334
+Epoch 73 val accuracy is:  0.20787096774193548
+
+
+EPOCH 74 started
+Epoch 74 loss is:  9.623129396753411
+Epoch 74 accuracy is:  20.685637583892618
+Epoch 74 val loss is:  9.622460839098478
+Epoch 74 val accuracy is:  0.2103225806451613
+
+
+EPOCH 75 started
+Epoch 75 loss is:  9.622901543775471
+Epoch 75 accuracy is:  20.760805369127517
+Epoch 75 val loss is:  9.62197779018775
+Epoch 75 val accuracy is:  0.20950537634408603
+
+
+EPOCH 76 started
+Epoch 76 loss is:  9.622741885043668
+Epoch 76 accuracy is:  20.75248322147651
+Epoch 76 val loss is:  9.620556330439529
+Epoch 76 val accuracy is:  0.20911827956989248
+
+
+EPOCH 77 started
+Epoch 77 loss is:  9.62251285626607
+Epoch 77 accuracy is:  20.785503355704698
+Epoch 77 val loss is:  9.620378968550346
+Epoch 77 val accuracy is:  0.208
+
+
+EPOCH 78 started
+Epoch 78 loss is:  9.622337561336396
+Epoch 78 accuracy is:  20.801610738255032
+Epoch 78 val loss is:  9.621936753693248
+Epoch 78 val accuracy is:  0.20967741935483872
+
+
+EPOCH 79 started
+Epoch 79 loss is:  9.622136875572169
+Epoch 79 accuracy is:  20.826040268456374
+Epoch 79 val loss is:  9.62075026032869
+Epoch 79 val accuracy is:  0.20827956989247312
+
+
+EPOCH 80 started
+Epoch 80 loss is:  9.621910573227899
+Epoch 80 accuracy is:  20.864161073825503
+Epoch 80 val loss is:  9.618469966255702
+Epoch 80 val accuracy is:  0.20913978494623656
+
+
+EPOCH 81 started
+Epoch 81 loss is:  9.621746930143646
+Epoch 81 accuracy is:  20.89315436241611
+Epoch 81 val loss is:  9.623833809170309
+Epoch 81 val accuracy is:  0.20965591397849462
+
+
+EPOCH 82 started
+Epoch 82 loss is:  9.621501472990781
+Epoch 82 accuracy is:  20.95060402684564
+Epoch 82 val loss is:  9.623752426873505
+Epoch 82 val accuracy is:  0.2123225806451613
+
+
+EPOCH 83 started
+Epoch 83 loss is:  9.621379575652501
+Epoch 83 accuracy is:  20.953557046979867
+Epoch 83 val loss is:  9.619853601775123
+Epoch 83 val accuracy is:  0.21008602150537634
+
+
+EPOCH 84 started
+Epoch 84 loss is:  9.621121289669647
+Epoch 84 accuracy is:  20.987114093959732
+Epoch 84 val loss is:  9.623269636899705
+Epoch 84 val accuracy is:  0.20933333333333334
+
+
+EPOCH 85 started
+Epoch 85 loss is:  9.62097390180226
+Epoch 85 accuracy is:  21.005637583892618
+Epoch 85 val loss is:  9.62124407669879
+Epoch 85 val accuracy is:  0.21281720430107526
+
+
+EPOCH 86 started
+Epoch 86 loss is:  9.62076269137544
+Epoch 86 accuracy is:  21.04
+Epoch 86 val loss is:  9.620504582811428
+Epoch 86 val accuracy is:  0.21247311827956988
+
+
+EPOCH 87 started
+Epoch 87 loss is:  9.620620716097728
+Epoch 87 accuracy is:  21.105771812080537
+Epoch 87 val loss is:  9.616431841097842
+Epoch 87 val accuracy is:  0.20963440860215055
+
+
+EPOCH 88 started
+Epoch 88 loss is:  9.620441834103392
+Epoch 88 accuracy is:  21.10953020134228
+Epoch 88 val loss is:  9.621874982731565
+Epoch 88 val accuracy is:  0.21288172043010753
+
+
+EPOCH 89 started
+Epoch 89 loss is:  9.620306843282899
+Epoch 89 accuracy is:  21.153288590604028
+Epoch 89 val loss is:  9.621973598430156
+Epoch 89 val accuracy is:  0.21234408602150537
+
+
+EPOCH 90 started
+Epoch 90 loss is:  9.620132930104136
+Epoch 90 accuracy is:  21.165637583892618
+Epoch 90 val loss is:  9.615324660543838
+Epoch 90 val accuracy is:  0.2101290322580645
+
+
+EPOCH 91 started
+Epoch 91 loss is:  9.619953428702988
+Epoch 91 accuracy is:  21.194093959731543
+Epoch 91 val loss is:  9.618731081372122
+Epoch 91 val accuracy is:  0.20933333333333334
+
+
+EPOCH 92 started
+Epoch 92 loss is:  9.619793044598442
+Epoch 92 accuracy is:  21.231677852348994
+Epoch 92 val loss is:  9.61805375893245
+Epoch 92 val accuracy is:  0.21303225806451612
+
+
+EPOCH 93 started
+Epoch 93 loss is:  9.619641881184704
+Epoch 93 accuracy is:  21.255838926174498
+Epoch 93 val loss is:  9.614503802819723
+Epoch 93 val accuracy is:  0.21036559139784947
+
+
+EPOCH 94 started
+Epoch 94 loss is:  9.61946446246097
+Epoch 94 accuracy is:  21.29744966442953
+Epoch 94 val loss is:  9.614933947308637
+Epoch 94 val accuracy is:  0.2111182795698925
+
+
+EPOCH 95 started
+Epoch 95 loss is:  9.619335176123537
+Epoch 95 accuracy is:  21.29503355704698
+Epoch 95 val loss is:  9.619332906437911
+Epoch 95 val accuracy is:  0.21348387096774193
+
+
+EPOCH 96 started
+Epoch 96 loss is:  9.619188078010781
+Epoch 96 accuracy is:  21.379328859060404
+Epoch 96 val loss is:  9.623400217671136
+Epoch 96 val accuracy is:  0.21008602150537634
+
+
+EPOCH 97 started
+Epoch 97 loss is:  9.61902390853034
+Epoch 97 accuracy is:  21.386308724832215
+Epoch 97 val loss is:  9.619872948985725
+Epoch 97 val accuracy is:  0.2147956989247312
+
+
+EPOCH 98 started
+Epoch 98 loss is:  9.618918508710317
+Epoch 98 accuracy is:  21.433557046979868
+Epoch 98 val loss is:  9.61847048140493
+Epoch 98 val accuracy is:  0.21494623655913978
+
+
+EPOCH 99 started
+Epoch 99 loss is:  9.618771421012498
+Epoch 99 accuracy is:  21.45020134228188
+Epoch 99 val loss is:  9.613952506151405
+Epoch 99 val accuracy is:  0.21187096774193548
+
+
+EPOCH 100 started
+Epoch 100 loss is:  9.618614395303748
+Epoch 100 accuracy is:  21.45718120805369
+Epoch 100 val loss is:  9.61287200865535
+Epoch 100 val accuracy is:  0.20879569892473118
+
+
+EPOCH 101 started
+Epoch 101 loss is:  9.618519184284922
+Epoch 101 accuracy is:  21.525637583892617
+Epoch 101 val loss is:  9.619764137194593
+Epoch 101 val accuracy is:  0.21868817204301075
+
+
+EPOCH 102 started
+Epoch 102 loss is:  9.618396440372354
+Epoch 102 accuracy is:  21.548456375838928
+Epoch 102 val loss is:  9.615903607502673
+Epoch 102 val accuracy is:  0.21453763440860216
+
+
+EPOCH 103 started
+Epoch 103 loss is:  9.618212928781412
+Epoch 103 accuracy is:  21.545771812080538
+Epoch 103 val loss is:  9.621165599930954
+Epoch 103 val accuracy is:  0.21554838709677418
+
+
+EPOCH 104 started
+Epoch 104 loss is:  9.618100114872064
+Epoch 104 accuracy is:  21.60751677852349
+Epoch 104 val loss is:  9.618260434315438
+Epoch 104 val accuracy is:  0.21995698924731183
+
+
+EPOCH 105 started
+Epoch 105 loss is:  9.617922846878276
+Epoch 105 accuracy is:  21.635436241610737
+Epoch 105 val loss is:  9.621164555219456
+Epoch 105 val accuracy is:  0.2161290322580645
+
+
+EPOCH 106 started
+Epoch 106 loss is:  9.61788101748859
+Epoch 106 accuracy is:  21.649395973154363
+Epoch 106 val loss is:  9.61979738270675
+Epoch 106 val accuracy is:  0.21731182795698925
+
+
+EPOCH 107 started
+Epoch 107 loss is:  9.617691863763332
+Epoch 107 accuracy is:  21.681879194630874
+Epoch 107 val loss is:  9.618498876316748
+Epoch 107 val accuracy is:  0.21529032258064515
+
+
+EPOCH 108 started
+Epoch 108 loss is:  9.617562738690047
+Epoch 108 accuracy is:  21.73718120805369
+Epoch 108 val loss is:  9.615411904595996
+Epoch 108 val accuracy is:  0.21645161290322582
+
+
+EPOCH 109 started
+Epoch 109 loss is:  9.617430040801647
+Epoch 109 accuracy is:  21.729127516778522
+Epoch 109 val loss is:  9.618892520716846
+Epoch 109 val accuracy is:  0.22335483870967743
+
+
+EPOCH 110 started
+Epoch 110 loss is:  9.617345316618534
+Epoch 110 accuracy is:  21.79489932885906
+Epoch 110 val loss is:  9.616032917640917
+Epoch 110 val accuracy is:  0.21318279569892473
+
+
+EPOCH 111 started
+Epoch 111 loss is:  9.617191403042785
+Epoch 111 accuracy is:  21.80697986577181
+Epoch 111 val loss is:  9.61454539948907
+Epoch 111 val accuracy is:  0.21529032258064515
+
+
+EPOCH 112 started
+Epoch 112 loss is:  9.617063736790683
+Epoch 112 accuracy is:  21.8703355704698
+Epoch 112 val loss is:  9.6179287937582
+Epoch 112 val accuracy is:  0.21666666666666667
+
+
+EPOCH 113 started
+Epoch 113 loss is:  9.616937980865943
+Epoch 113 accuracy is:  21.87785234899329
+Epoch 113 val loss is:  9.616611058118956
+Epoch 113 val accuracy is:  0.21881720430107526
+
+
+EPOCH 114 started
+Epoch 114 loss is:  9.616797845525946
+Epoch 114 accuracy is:  21.91248322147651
+Epoch 114 val loss is:  9.619114805154236
+Epoch 114 val accuracy is:  0.22223655913978493
+
+
+EPOCH 115 started
+Epoch 115 loss is:  9.616675841792446
+Epoch 115 accuracy is:  21.96295302013423
+Epoch 115 val loss is:  9.615917791453196
+Epoch 115 val accuracy is:  0.21643010752688172
+
+
+EPOCH 116 started
+Epoch 116 loss is:  9.61651395170041
+Epoch 116 accuracy is:  21.970738255033556
+Epoch 116 val loss is:  9.612453060109003
+Epoch 116 val accuracy is:  0.21494623655913978
+
+
+EPOCH 117 started
+Epoch 117 loss is:  9.616403349854034
+Epoch 117 accuracy is:  22.026308724832216
+Epoch 117 val loss is:  9.613848799123948
+Epoch 117 val accuracy is:  0.22172043010752687
+
+
+EPOCH 118 started
+Epoch 118 loss is:  9.616222472136666
+Epoch 118 accuracy is:  22.03973154362416
+Epoch 118 val loss is:  9.612676303309822
+Epoch 118 val accuracy is:  0.21565591397849462
+
+
+EPOCH 119 started
+Epoch 119 loss is:  9.616113675828956
+Epoch 119 accuracy is:  22.071946308724833
+Epoch 119 val loss is:  9.612297896267558
+Epoch 119 val accuracy is:  0.21651612903225806
+
+
+EPOCH 120 started
+Epoch 120 loss is:  9.616004000292289
+Epoch 120 accuracy is:  22.16268456375839
+Epoch 120 val loss is:  9.61309158175464
+Epoch 120 val accuracy is:  0.22174193548387097
+
+
+EPOCH 121 started
+Epoch 121 loss is:  9.615859114557692
+Epoch 121 accuracy is:  22.171812080536913
+Epoch 121 val loss is:  9.612402850055338
+Epoch 121 val accuracy is:  0.2203225806451613
+
+
+EPOCH 122 started
+Epoch 122 loss is:  9.615711641638683
+Epoch 122 accuracy is:  22.21476510067114
+Epoch 122 val loss is:  9.618411276282597
+Epoch 122 val accuracy is:  0.22225806451612903
+
+
+EPOCH 123 started
+Epoch 123 loss is:  9.615582870409312
+Epoch 123 accuracy is:  22.238657718120805
+Epoch 123 val loss is:  9.609672021429622
+Epoch 123 val accuracy is:  0.2167956989247312
+
+
+EPOCH 124 started
+Epoch 124 loss is:  9.61542245009523
+Epoch 124 accuracy is:  22.274630872483222
+Epoch 124 val loss is:  9.61352608843482
+Epoch 124 val accuracy is:  0.2209247311827957
+
+
+EPOCH 125 started
+Epoch 125 loss is:  9.615330227793983
+Epoch 125 accuracy is:  22.30765100671141
+Epoch 125 val loss is:  9.620350304366015
+Epoch 125 val accuracy is:  0.2241720430107527
+
+
+EPOCH 126 started
+Epoch 126 loss is:  9.615180665789904
+Epoch 126 accuracy is:  22.375302013422818
+Epoch 126 val loss is:  9.614737718271318
+Epoch 126 val accuracy is:  0.2206236559139785
+
+
+EPOCH 127 started
+Epoch 127 loss is:  9.615042115200374
+Epoch 127 accuracy is:  22.41181208053691
+Epoch 127 val loss is:  9.618103872443047
+Epoch 127 val accuracy is:  0.22888172043010752
+
+
+EPOCH 128 started
+Epoch 128 loss is:  9.614893978956717
+Epoch 128 accuracy is:  22.433020134228187
+Epoch 128 val loss is:  9.61086677035493
+Epoch 128 val accuracy is:  0.22268817204301075
+
+
+EPOCH 129 started
+Epoch 129 loss is:  9.614823701288584
+Epoch 129 accuracy is:  22.46523489932886
+Epoch 129 val loss is:  9.612694073814996
+Epoch 129 val accuracy is:  0.22350537634408602
+
+
+EPOCH 130 started
+Epoch 130 loss is:  9.614687002129829
+Epoch 130 accuracy is:  22.524026845637582
+Epoch 130 val loss is:  9.616282514755305
+Epoch 130 val accuracy is:  0.2273978494623656
+
+
+EPOCH 131 started
+Epoch 131 loss is:  9.614564077002496
+Epoch 131 accuracy is:  22.58496644295302
+Epoch 131 val loss is:  9.617091167938005
+Epoch 131 val accuracy is:  0.2286021505376344
+
+
+EPOCH 132 started
+Epoch 132 loss is:  9.614429190286376
+Epoch 132 accuracy is:  22.57557046979866
+Epoch 132 val loss is:  9.61563916437494
+Epoch 132 val accuracy is:  0.2258709677419355
+
+
+EPOCH 133 started
+Epoch 133 loss is:  9.614300653337105
+Epoch 133 accuracy is:  22.623624161073824
+Epoch 133 val loss is:  9.615444829077354
+Epoch 133 val accuracy is:  0.2247741935483871
+
+
+EPOCH 134 started
+Epoch 134 loss is:  9.614182402261402
+Epoch 134 accuracy is:  22.63221476510067
+Epoch 134 val loss is:  9.614797111755008
+Epoch 134 val accuracy is:  0.22776344086021505
+
+
+EPOCH 135 started
+Epoch 135 loss is:  9.614069120924679
+Epoch 135 accuracy is:  22.705234899328858
+Epoch 135 val loss is:  9.61595584710058
+Epoch 135 val accuracy is:  0.2295698924731183
+
+
+EPOCH 136 started
+Epoch 136 loss is:  9.613967999834118
+Epoch 136 accuracy is:  22.748456375838927
+Epoch 136 val loss is:  9.61826109387612
+Epoch 136 val accuracy is:  0.2299784946236559
+
+
+EPOCH 137 started
+Epoch 137 loss is:  9.613814853612427
+Epoch 137 accuracy is:  22.731543624161073
+Epoch 137 val loss is:  9.616835634328986
+Epoch 137 val accuracy is:  0.23101075268817203
+
+
+EPOCH 138 started
+Epoch 138 loss is:  9.613707950738736
+Epoch 138 accuracy is:  22.80026845637584
+Epoch 138 val loss is:  9.611418846912237
+Epoch 138 val accuracy is:  0.22670967741935483
+
+
+EPOCH 139 started
+Epoch 139 loss is:  9.61361903026201
+Epoch 139 accuracy is:  22.814496644295303
+Epoch 139 val loss is:  9.61457682753528
+Epoch 139 val accuracy is:  0.22653763440860214
+
+
+EPOCH 140 started
+Epoch 140 loss is:  9.61350581559141
+Epoch 140 accuracy is:  22.84026845637584
+Epoch 140 val loss is:  9.612860930943114
+Epoch 140 val accuracy is:  0.22533333333333333
+
+
+EPOCH 141 started
+Epoch 141 loss is:  9.613370688976003
+Epoch 141 accuracy is:  22.834093959731543
+Epoch 141 val loss is:  9.615642023428215
+Epoch 141 val accuracy is:  0.2304516129032258
+
+
+EPOCH 142 started
+Epoch 142 loss is:  9.613354305771091
+Epoch 142 accuracy is:  22.884026845637585
+Epoch 142 val loss is:  9.613777745843215
+Epoch 142 val accuracy is:  0.22529032258064516
+
+
+EPOCH 143 started
+Epoch 143 loss is:  9.613221125490078
+Epoch 143 accuracy is:  22.913020134228187
+Epoch 143 val loss is:  9.608424109163693
+Epoch 143 val accuracy is:  0.22806451612903225
+
+
+EPOCH 144 started
+Epoch 144 loss is:  9.613073296144655
+Epoch 144 accuracy is:  22.962416107382552
+Epoch 144 val loss is:  9.611696729042098
+Epoch 144 val accuracy is:  0.2293548387096774
+
+
+EPOCH 145 started
+Epoch 145 loss is:  9.612987141255024
+Epoch 145 accuracy is:  22.929395973154364
+Epoch 145 val loss is:  9.612106387682482
+Epoch 145 val accuracy is:  0.22980645161290322
+
+
+EPOCH 146 started
+Epoch 146 loss is:  9.612860742933227
+Epoch 146 accuracy is:  23.003489932885905
+Epoch 146 val loss is:  9.616617133250786
+Epoch 146 val accuracy is:  0.226752688172043
+
+
+EPOCH 147 started
+Epoch 147 loss is:  9.612790973071272
+Epoch 147 accuracy is:  22.983892617449666
+Epoch 147 val loss is:  9.611630770851981
+Epoch 147 val accuracy is:  0.22864516129032258
+
+
+EPOCH 148 started
+Epoch 148 loss is:  9.612673281114025
+Epoch 148 accuracy is:  22.993825503355705
+Epoch 148 val loss is:  9.612247753504766
+Epoch 148 val accuracy is:  0.22913978494623655
+
+
+EPOCH 149 started
+Epoch 149 loss is:  9.612622040758275
+Epoch 149 accuracy is:  23.041073825503357
+Epoch 149 val loss is:  9.609416805020375
+Epoch 149 val accuracy is:  0.2292258064516129
+
+
+EPOCH 150 started
+Epoch 150 loss is:  9.612504376153764
+Epoch 150 accuracy is:  23.049932885906042
+Epoch 150 val loss is:  9.610025383696403
+Epoch 150 val accuracy is:  0.23049462365591397
+
+
+EPOCH 151 started
+Epoch 151 loss is:  9.612355720819922
+Epoch 151 accuracy is:  23.044563758389263
+Epoch 151 val loss is:  9.611823944175043
+Epoch 151 val accuracy is:  0.2313763440860215
+
+
+EPOCH 152 started
+Epoch 152 loss is:  9.612312386874601
+Epoch 152 accuracy is:  23.116778523489934
+Epoch 152 val loss is:  9.615600547823485
+Epoch 152 val accuracy is:  0.23088172043010752
+
+
+EPOCH 153 started
+Epoch 153 loss is:  9.61217907241995
+Epoch 153 accuracy is:  23.093422818791947
+Epoch 153 val loss is:  9.608594485997912
+Epoch 153 val accuracy is:  0.22761290322580646
+
+
+EPOCH 154 started
+Epoch 154 loss is:  9.612109125815627
+Epoch 154 accuracy is:  23.115973154362415
+Epoch 154 val loss is:  9.610030657794017
+Epoch 154 val accuracy is:  0.23010752688172043
+
+
+EPOCH 155 started
+Epoch 155 loss is:  9.611956355621265
+Epoch 155 accuracy is:  23.113020134228186
+Epoch 155 val loss is:  9.611251341611279
+Epoch 155 val accuracy is:  0.2310537634408602
+
+
+EPOCH 156 started
+Epoch 156 loss is:  9.611935151968334
+Epoch 156 accuracy is:  23.13691275167785
+Epoch 156 val loss is:  9.609735244004593
+Epoch 156 val accuracy is:  0.23234408602150539
+
+
+EPOCH 157 started
+Epoch 157 loss is:  9.611783223060527
+Epoch 157 accuracy is:  23.13288590604027
+Epoch 157 val loss is:  9.614871753990256
+Epoch 157 val accuracy is:  0.22634408602150538
+
+
+EPOCH 158 started
+Epoch 158 loss is:  9.611713402544675
+Epoch 158 accuracy is:  23.16241610738255
+Epoch 158 val loss is:  9.611784960851272
+Epoch 158 val accuracy is:  0.23008602150537635
+
+
+EPOCH 159 started
+Epoch 159 loss is:  9.611646272753678
+Epoch 159 accuracy is:  23.174228187919464
+Epoch 159 val loss is:  9.616624611365552
+Epoch 159 val accuracy is:  0.2312258064516129
+
+
+EPOCH 160 started
+Epoch 160 loss is:  9.611520903032176
+Epoch 160 accuracy is:  23.158926174496646
+Epoch 160 val loss is:  9.60928407284811
+Epoch 160 val accuracy is:  0.23006451612903225
+
+
+EPOCH 161 started
+Epoch 161 loss is:  9.611421565051199
+Epoch 161 accuracy is:  23.163489932885906
+Epoch 161 val loss is:  9.611320569243109
+Epoch 161 val accuracy is:  0.2321720430107527
+
+
+EPOCH 162 started
+Epoch 162 loss is:  9.61129694372064
+Epoch 162 accuracy is:  23.175570469798657
+Epoch 162 val loss is:  9.616151624040358
+Epoch 162 val accuracy is:  0.22989247311827957
+
+
+EPOCH 163 started
+Epoch 163 loss is:  9.611303000175498
+Epoch 163 accuracy is:  23.195973154362417
+Epoch 163 val loss is:  9.60665942886927
+Epoch 163 val accuracy is:  0.22711827956989247
+
+
+EPOCH 164 started
+Epoch 164 loss is:  9.611140606989455
+Epoch 164 accuracy is:  23.223624161073825
+Epoch 164 val loss is:  9.608757212747753
+Epoch 164 val accuracy is:  0.2329247311827957
+
+
+EPOCH 165 started
+Epoch 165 loss is:  9.6110215958486
+Epoch 165 accuracy is:  23.21020134228188
+Epoch 165 val loss is:  9.610674625585037
+Epoch 165 val accuracy is:  0.23129032258064516
+
+
+EPOCH 166 started
+Epoch 166 loss is:  9.61095557608527
+Epoch 166 accuracy is:  23.215838926174495
+Epoch 166 val loss is:  9.611935960044276
+Epoch 166 val accuracy is:  0.23180645161290322
+
+
+EPOCH 167 started
+Epoch 167 loss is:  9.610901296226146
+Epoch 167 accuracy is:  23.212885906040267
+Epoch 167 val loss is:  9.611963302359468
+Epoch 167 val accuracy is:  0.23090322580645162
+
+
+EPOCH 168 started
+Epoch 168 loss is:  9.610762922661191
+Epoch 168 accuracy is:  23.229261744966443
+Epoch 168 val loss is:  9.607728564441901
+Epoch 168 val accuracy is:  0.231247311827957
+
+
+EPOCH 169 started
+Epoch 169 loss is:  9.610677328651105
+Epoch 169 accuracy is:  23.248053691275167
+Epoch 169 val loss is:  9.610538006099839
+Epoch 169 val accuracy is:  0.23070967741935483
+
+
+EPOCH 170 started
+Epoch 170 loss is:  9.610578724219826
+Epoch 170 accuracy is:  23.24322147651007
+Epoch 170 val loss is:  9.60805335960328
+Epoch 170 val accuracy is:  0.23068817204301076
+
+
+EPOCH 171 started
+Epoch 171 loss is:  9.61047199355113
+Epoch 171 accuracy is:  23.22469798657718
+Epoch 171 val loss is:  9.60856730535279
+Epoch 171 val accuracy is:  0.22729032258064516
+
+
+EPOCH 172 started
+Epoch 172 loss is:  9.610374253093907
+Epoch 172 accuracy is:  23.248053691275167
+Epoch 172 val loss is:  9.607839236024546
+Epoch 172 val accuracy is:  0.23040860215053763
+
+
+EPOCH 173 started
+Epoch 173 loss is:  9.610291209389864
+Epoch 173 accuracy is:  23.263892617449663
+Epoch 173 val loss is:  9.606814633439097
+Epoch 173 val accuracy is:  0.22978494623655915
+
+
+EPOCH 174 started
+Epoch 174 loss is:  9.610189301440933
+Epoch 174 accuracy is:  23.2655033557047
+Epoch 174 val loss is:  9.61031651554793
+Epoch 174 val accuracy is:  0.23174193548387098
+
+
+EPOCH 175 started
+Epoch 175 loss is:  9.610108675097115
+Epoch 175 accuracy is:  23.277046979865773
+Epoch 175 val loss is:  9.61132716492219
+Epoch 175 val accuracy is:  0.23182795698924732
+
+
+EPOCH 176 started
+Epoch 176 loss is:  9.6099608185409
+Epoch 176 accuracy is:  23.27731543624161
+Epoch 176 val loss is:  9.611828311374044
+Epoch 176 val accuracy is:  0.22995698924731184
+
+
+EPOCH 177 started
+Epoch 177 loss is:  9.60992425092696
+Epoch 177 accuracy is:  23.256912751677852
+Epoch 177 val loss is:  9.609130120024597
+Epoch 177 val accuracy is:  0.23212903225806453
+
+
+EPOCH 178 started
+Epoch 178 loss is:  9.609813132136797
+Epoch 178 accuracy is:  23.278926174496643
+Epoch 178 val loss is:  9.61475919274011
+Epoch 178 val accuracy is:  0.23341935483870968
+
+
+EPOCH 179 started
+Epoch 179 loss is:  9.609688562803134
+Epoch 179 accuracy is:  23.296644295302013
+Epoch 179 val loss is:  9.612522192697474
+Epoch 179 val accuracy is:  0.2335268817204301
+
+
+EPOCH 180 started
+Epoch 180 loss is:  9.60962166981853
+Epoch 180 accuracy is:  23.31221476510067
+Epoch 180 val loss is:  9.610846020992728
+Epoch 180 val accuracy is:  0.2316989247311828
+
+
+EPOCH 181 started
+Epoch 181 loss is:  9.60950293237206
+Epoch 181 accuracy is:  23.311409395973154
+Epoch 181 val loss is:  9.60874350131679
+Epoch 181 val accuracy is:  0.23212903225806453
+
+
+EPOCH 182 started
+Epoch 182 loss is:  9.609431708204932
+Epoch 182 accuracy is:  23.333959731543626
+Epoch 182 val loss is:  9.60843778624488
+Epoch 182 val accuracy is:  0.23210752688172043
+
+
+EPOCH 183 started
+Epoch 183 loss is:  9.609297557715236
+Epoch 183 accuracy is:  23.333959731543626
+Epoch 183 val loss is:  9.606218113625964
+Epoch 183 val accuracy is:  0.22722580645161292
+
+
+EPOCH 184 started
+Epoch 184 loss is:  9.609248241233662
+Epoch 184 accuracy is:  23.316241610738256
+Epoch 184 val loss is:  9.607475058289126
+Epoch 184 val accuracy is:  0.23253763440860215
+
+
+EPOCH 185 started
+Epoch 185 loss is:  9.609063852630412
+Epoch 185 accuracy is:  23.33476510067114
+Epoch 185 val loss is:  9.607557427379891
+Epoch 185 val accuracy is:  0.23212903225806453
+
+
+EPOCH 186 started
+Epoch 186 loss is:  9.609017753445809
+Epoch 186 accuracy is:  23.328859060402685
+Epoch 186 val loss is:  9.611820431223357
+Epoch 186 val accuracy is:  0.2293548387096774
+
+
+EPOCH 187 started
+Epoch 187 loss is:  9.608927458823022
+Epoch 187 accuracy is:  23.331275167785236
+Epoch 187 val loss is:  9.60866273944763
+Epoch 187 val accuracy is:  0.23234408602150539
+
+
+EPOCH 188 started
+Epoch 188 loss is:  9.608818152891812
+Epoch 188 accuracy is:  23.35812080536913
+Epoch 188 val loss is:  9.608042634663745
+Epoch 188 val accuracy is:  0.23372043010752688
+
+
+EPOCH 189 started
+Epoch 189 loss is:  9.60872642022184
+Epoch 189 accuracy is:  23.350604026845637
+Epoch 189 val loss is:  9.608566819159199
+Epoch 189 val accuracy is:  0.2304516129032258
+
+
+EPOCH 190 started
+Epoch 190 loss is:  9.608599027636691
+Epoch 190 accuracy is:  23.37020134228188
+Epoch 190 val loss is:  9.608722707158867
+Epoch 190 val accuracy is:  0.23281720430107528
+
+
+EPOCH 191 started
+Epoch 191 loss is:  9.608530299930159
+Epoch 191 accuracy is:  23.35248322147651
+Epoch 191 val loss is:  9.608030453462312
+Epoch 191 val accuracy is:  0.23376344086021505
+
+
+EPOCH 192 started
+Epoch 192 loss is:  9.608386795775772
+Epoch 192 accuracy is:  23.381476510067113
+Epoch 192 val loss is:  9.607075107397243
+Epoch 192 val accuracy is:  0.23344086021505375
+
+
+EPOCH 193 started
+Epoch 193 loss is:  9.608308538157381
+Epoch 193 accuracy is:  23.366711409395972
+Epoch 193 val loss is:  9.606353606123603
+Epoch 193 val accuracy is:  0.23251612903225807
+
+
+EPOCH 194 started
+Epoch 194 loss is:  9.60819147001648
+Epoch 194 accuracy is:  23.36751677852349
+Epoch 194 val loss is:  9.606645119811082
+Epoch 194 val accuracy is:  0.2326451612903226
+
+
+EPOCH 195 started
+Epoch 195 loss is:  9.608082110692653
+Epoch 195 accuracy is:  23.418523489932888
+Epoch 195 val loss is:  9.609573778321776
+Epoch 195 val accuracy is:  0.23533333333333334
+
+
+EPOCH 196 started
+Epoch 196 loss is:  9.607966725751389
+Epoch 196 accuracy is:  23.429261744966443
+Epoch 196 val loss is:  9.609357008153802
+Epoch 196 val accuracy is:  0.2347741935483871
+
+
+EPOCH 197 started
+Epoch 197 loss is:  9.607880217888994
+Epoch 197 accuracy is:  23.4255033557047
+Epoch 197 val loss is:  9.608872781031453
+Epoch 197 val accuracy is:  0.2333548387096774
+
+
+EPOCH 198 started
+Epoch 198 loss is:  9.607773290079884
+Epoch 198 accuracy is:  23.446979865771812
+Epoch 198 val loss is:  9.611398683413164
+Epoch 198 val accuracy is:  0.23393548387096774
+
+
+EPOCH 199 started
+Epoch 199 loss is:  9.607654243017224
+Epoch 199 accuracy is:  23.41503355704698
+Epoch 199 val loss is:  9.60679295029858
+Epoch 199 val accuracy is:  0.23341935483870968
+
+
+EPOCH 200 started
+Epoch 200 loss is:  9.607568527766173
+Epoch 200 accuracy is:  23.440805369127517
+Epoch 200 val loss is:  9.604091038294564
+Epoch 200 val accuracy is:  0.23230107526881721
