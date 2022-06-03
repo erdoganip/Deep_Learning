@@ -1,4 +1,2 @@
-İpek Erdoğan, 2019700174, Deep Learning HW3
-
 Training için direkt olaran main.py dosyasını çalıştırabilirsiniz.
-Generation için dosyada kaydettiğim model weight dosyasını iletiyorum. Direkt olarak generator.py dosyasını çalıştırarak yeni imagelar generate edebilirsiniz.
+Model weight dosyası ile generator.py dosyasını çalıştırarak yeni imagelar generate edebilirsiniz.
